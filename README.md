@@ -1,3 +1,6 @@
+## News
+This paper is online at https://doi.org/10.1007/s00371-024-03757-w in The Visual Computer.
+
 ## SSP AD Dataset
 
 if you would like to access the dataset, please feel free to contact us via email at crl1567@163.com.
@@ -77,3 +80,18 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This project is licensed under the Apache-2.0 License.
+
+
+## Citation
+If you find these projects useful, please consider citing:
+
+```shell
+@article{cao2024dual,
+  title={Dual-flow feature enhancement network for robust anomaly detection in stainless steel pipe welding},
+  author={Cao, Runlong and Zhang, Jianqi and Shen, Yun and Zhou, Huanhuan and Zhou, Peiying and Shen, Guowei and Xia, Zhengwen and Zang, Ying and Liu, Qingshan and Hu, Wenjun},
+  journal={The Visual Computer},
+  pages={1--17},
+  year={2024},
+  publisher={Springer}
+}
+```
