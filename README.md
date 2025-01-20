@@ -1,5 +1,5 @@
 ## News
-This paper is online at https://doi.org/10.1007/s00371-024-03757-w in The Visual Computer.
+This paper is online at https://doi.org/10.1007/s00371-024-03757-w in The Visual Computer.               
 
 ## SSP AD Dataset
 
