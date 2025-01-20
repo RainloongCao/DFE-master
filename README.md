@@ -3,7 +3,7 @@ This paper is online at https://doi.org/10.1007/s00371-024-03757-w in The Visual
 
 ## SSP AD Dataset
 
-if you would like to access the dataset, please feel free to contact us via email at crl1567@163.com. 
+if you would like to access the dataset, please feel free to contact us via email at crl1567@163.com.     
 ---
 
 ## Quick Guide
